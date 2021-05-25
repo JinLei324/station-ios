@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>paste_littlemind</string>
+	<string>paste_nice</string>
+	<string>paste_bye</string>
+	<string>paste_meet</string>
+	<string>paste_moved</string>
+	<string>paste_anything</string>
+	<string>paste_iam</string>
+	<string>paste_foryou</string>
+	<string>paste_sincere</string>
+	<string>paste_fulllove</string>
+	<string>paste_loveyou</string>
+	<string>paste_missyou</string>
+	<string>paste_20min_1</string>
+	<string>paste_20min_2</string>
+	<string>paste_50min_1</string>
+	<string>paste_50min_2</string>
+</array>
+</plist>

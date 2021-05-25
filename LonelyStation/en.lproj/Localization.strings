@@ -1,0 +1,572 @@
+/*
+ Localization.strings
+ APlayer
+ 
+ Created by kelven on 11-11-4.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+
+SheChangeChargeStatus = "The other party has modified the charging status, please restart the session";
+YouLockedTa = "You've blocked each other and can be unlocked.";
+KeepLock = "keep closed";
+UnLock = "unblocking";
+ChatFreeDes = "The other party is free to chat with your message, can be set to change";
+TaLockedYou = "The other party has blocked you and can not chat";
+ChatWithHer = "chatting with her will deduct your chat card seconds";
+StartChat = "Start chatting";
+YouUnLimitCardNotEnough = "Your unlimited chat card is not enough days, chat with her chat or go to recharge";
+OKGoAhead = "confirm use";
+YouUnLimitNotEnough = "Your unlimited number of chat days is not enough, please go to recharge";
+
+SorryTimeNotEnough = "Sorry, you have to reload to use this feature";
+WhenYouCallSb = "When you make a call to each other, it's free for the moment.";
+NotFree = "pay";
+FreeSetting = "set";
+ChatCardDesF = "chat card can be used to give away your favorite object gift";
+StationCardDes = "radio coupons listen to pay broadcasts";
+ChatCardDes = "chat card can chat with female member of paid chat or give gifts to favorite objects";
+UnlimitChat = "unlimited talk";
+ChatDes = "The other party to pay for chatting with your message, can be set to change";
+
+CallCharge = "Do you want to charge each other for voice calls?";
+MsgCharge = "Whether message chatting should be charged to each other";
+ChargeSetting = "Charge Setting";
+ChargeStatus = "Charge Status";
+Charge = "Charge";
+Free = "Free";
+YOUMUSTCOMPLETEINFO = "You have to improve your profile to use this feature.";
+THISWANTREGISTER = "This feature needs to be registered before use";
+GOTOREGISTER = "Go";
+IWANTLOGIN = "I Want Login";
+IWANTREGISTER = "I Want Register";
+SexCannotChange = "- Sex can't change after register -";
+IMBOY = "I am boy";
+IMGIRL = "I am Girl";
+REGISTERWithOutName = "Anonymous Register";
+LoginWithOutName = "Anonymous login";
+SignAccount = "Register";
+LoginLabel = "Talking Talking";
+HomePage = "Lonely Station";
+ARTICLE = "Lonely Explore";
+AdvancedSearch  = "Advanced Search";
+SpeechEmotion = "Broadcast Voice";
+NetWorkTitle = "Internet Note";
+NetWorkMsg = "Please check your network connection.";
+
+//LoginViewController
+LoginBtn = "Login";
+RegisterBtn = "Register";
+
+UserName = "Email";
+Password = "Password";
+ForgetPwd = "ForgotPwd";
+PleaseInputEmail = "input email";
+PlsInputPwd = "input password";
+SetingPWD = "setup password";
+EnSurePWD = "confirm password";
+NextStep = "Next";
+EnSureNextStep = "I agree to the terms and conditions.";
+Standed = " terms and conditions";
+PlsInputUser = "input email";
+PlsInputPwd = "input password";
+LoginFailed = "failed, please try later.";
+LoginSuccess = "success";
+RegisterFailed = "failed, please try later.";
+RegisterSuccess = "success";
+
+PlsInputSamePwd = "Inconsistent password, please try again.";
+PlsInputRightEmail = "please input well-formed email.";
+PlsRecordIntroduce = "Please record self-introduction, you can complete";
+
+
+//forgetPwdViewController
+ForgetBtn = "Forgot password";
+PlsInputYourEmail = "Please input your registed email.";
+WeWillSendEmailToYou = "We will forward a new password to your email.";
+EnSureSend = "Submit";
+ForgetSuccess = "Success";
+ForgetFailed = "Failed, please try later.";
+
+
+//StandViewController.h
+FirstLabel = "Welcome to your lonely stations, to ensure that users can have a good and safe working environment, when you use this platform, please observe the following rules:";
+StandLabel1 = "Users should not have any defamatory, abusive, threatening, offensive, indecent, obscene, false, threatening, contrary to public order or good customs or other lawless text, images and content of the speech.";
+StandLabel2 = "You shall not involve any erotic, homonyms similar innuendo, implied or otherwise offensive words or voice content.";
+StandLabel3 = "Users shall not use the Service for erotic related transaction, offenders lonely station managers have the right to provide evidence brought to justice.";
+StandLabel4 = "In order to implement the protection of personal data, the user may not be the full name, address, telephone number, e-mail accounts, instant messaging account and link personal information public or others.";
+StandLabel5 = "Users may not be discussed in the chat dialogue and illegal activities or topics.";
+StandLabel6 = "Users shall not use in any way infringe on the privacy of others or breaches chat orderly.";
+StandLabel7 = "not in any way invade the account of others, offenders lonely station managers have the right to provide evidence brought to justice.";
+StandLabel8 = "Lonely Radio administrator has the right to upload the user's photo, voice audit found violations of the above provisions, must have a user account for the suspension process.";
+StandLabel9 = "All sound and photo lonely stations within all belonging to the user or developer, without the consent of Do not secretly diverted, if the resulting legal responsibility, please themselves.";
+StandLabel10 = "Lonely stations to provide a platform for exchange of the user community, to meet before appointment Ruoyu, please judge the authenticity of their own words and deeds of the other, and then meet their appointments to avoid being cheated or prejudice the safety of life situations.";
+
+IKnow = "Understand, go back registration";
+
+PersonalInfo = "My Profile";
+Complate = "Complete";
+UploadImageCanUseMore = "More features will be accessible after a photo is sucessfully uploaded.";
+NickName = "Nickname";
+NickNameEg = "little tiny";
+Birthday = "Birthday";
+BirthdayEg = "1988/07/07";
+Sex = "Gender";
+Boy = "Male";
+Girl = "Female";
+CannotChange = "*You cannot make any changes after registration has been completed.";
+Lang = "Language";
+LangEg = "Chinese";
+Country = "Country";
+CountryEg = "Taiwan";
+City = "City";
+CityEg = "Taipei";
+UploadImg = "Upload Photos";
+FailedAndPlsRetry = "Please check your network connection.";
+PlsCheckCountry = "Please select your country";
+UpLoadInfoSuccess = "Update successful!";
+UploadImgDes = "Uploading a profile picture allows you to make calls, send voice messages and respond at other users' stations.";
+PublicImgDes = "↑Your profile picture will be blurred. After users listen to your Voice, they will be able to see your photo. ";
+PublicImg = "Public photos";
+
+PrivateImgDes = "↑Other users will need your authorization to view your private photos.";
+PrivateImg = "Private photos";
+
+LastDes = "Please note: upload photo and obey terms and conditions.";
+SelfPic = "terms and conditions";
+
+ChoosePhoto = "Select";
+ChooseFromAblue = "Select from cellphone album";
+Camra = "Take a picture";
+Cancel = "Cancel";
+
+UploadSuccess = "Upload successful!";
+UploadIng = "Uploading...";
+ResetPwd = "Reset password";
+
+OriginPwd = "Current Password";
+NewPwd = "New Password";
+ReInputPwd = "Confirm New Password";
+
+PlsInputOldPwd = "Current Password";
+PlsInputNewPwd = "New Password";
+PlsInputSamePwd = "Inconsistent password, please try again.";
+
+OperateSuccess = "Success";
+OperateFailed = "Failed";
+
+PlsInputPersonalInfo = "Please complete personal profile";
+
+DeletePrivate = "Delete private photo";
+DeletePublic = "Delete public photo";
+DeleteImg = "Delete photo";
+SureDeleteImg = "Please confirm?";
+Sure = "Confirm";
+DeleteSuccess = "Success";
+
+NoChecked = "Verifying";
+PendingChecking = "Approved";
+RefuseCheck = "Denied";
+
+YouForgetUploadImg = "More features will be accessible after a photo is sucessfully uploaded.";
+YouForgetUploadImgInfo = "1.calling other users.\n2.messaging other users.\n3.leaving message to other podcast.";
+NextTime = "Remind me next time";
+UploadNow = "Upload Now";
+
+OnLine = "Online";
+OffLine = "Offline";
+Busy = "Busy";
+
+RecordBoardcast = "Record a Podcast";
+
+PersonalInfo = "My Profile";
+WhoListenMe = "Listeners";
+WhoCareMe = "Followers";
+MyCollection = "Podcast Favorites";
+MyRecord = "My Podcasts";
+MyVoice = "My Gifts";
+VoiceHistory = "Calling History";
+Setting = "Settings";
+FeedBack = "Customer Service";
+Logout = "Exit";
+
+RecordImageDes = "Upload a Cover Photo";
+RecordShareTitle = "Topic:";
+RecordShareTitlePlace = "Must contain 8 or fewer letters";
+RecordShareCatagory = "Category:";
+RecordShareCatagoryPlace = "Please select a category";
+RecordBeginTitle = "Start recording:";
+AddEffect = "Add sound effects";
+
+PlsObserveRule = "To maintain station quality, please do not violate our terms and conditions.";
+Public = "Submit";
+InnerImg = "Default Photos";
+SelectInnerImg = "Please choose photos";
+SelectCategory = "Please select a category";
+
+Warning = "Note";
+RecordIsTooShort = "Sorry, the recording is too short.";
+IKnowRecordIsTooShort = "知道了";
+DeleteSuccess = "Deleting successful";
+ClipSuccess = "Trimming completed";
+MicPhoneAccess = "APP will need to access your microphone while talking and recording audio.Please enable microphone-Setting/Privacy/Microphone";
+PlsRecordFirst = "Please make a recording first.";
+MakeSureDeleteRecord = "Delete sound effects?";
+SelectEffect = "Select sound effects";
+MakeSureDeleteAllRecord = "Delete all sound effects?";
+
+PlsInputBackImg = "Please add cover photo";
+PlsInputTitle = "Please input topic";
+PlsSelectCategory = "Please select category";
+PublicFailed = "Upload failed，please try later.";
+PublicSuccess = "Upload completed！";
+
+LeaveWarning = "Recording will not be saved，still leave？";
+IKnowAndandBack = "Understood. Go back to my profile.";
+ThisAiringCollect = "profit";
+
+MakeSureDeleteAiring = "Delete Podcast?";
+
+UpLoadRefresh = "Refresh";
+Refreshing = "Refreshing,please hold.";
+ThereHaveNoData = "No more records.";
+TitleCannotBeyond8 = "Title must contain 8 or fewer letters";
+
+MyCare = "Following";
+Blindness = "Blind Chat";
+AllStation = "Broadcast";
+VoiceChat = "Messages";
+
+Stop = "Stop";
+Play = "Play";
+Delete = "Delete";
+
+CutWarning = "*Start recording: press back button to cancel trimming";
+CutAlert = "Total length can't be 0";
+
+DidPictureBlur = "Photo too blurry? \n Listen to their Voice first.";
+DidPictureBlurWoman = "Photo too blurry? \n Listen to their Voice first.";
+
+ClickToListenIntroduce = "Click to listen to \n this station";
+ClickToListenStation = "Click to listen to\n this user's Voice";
+HaveNoSlogan = "No comment";
+PersonalStation = "Personal Station";
+
+AutoLoginFailed = "Login failed,please login by manual";
+
+MakeSureLogout = "Exit？";
+Sure = "Confirm";
+Cancel = "Cancel";
+
+WarningWIFI = "Please note: connecting to a wifi network will improve your call quality.";
+Horn = "Speaker";
+SendGift = "Gift of 3 minutes";
+Quiet = "Silent";
+
+WillSend3Min = "Will be sent from your chat card for 3 minutes";
+SendMin = "Send";
+MinNotEnough = "Your remaining talk time is not enough, please recharge";
+HandleFailed = "Failed,please try later.";
+HandleSuccess = "send 3 minutes successful";
+
+ThereisNoAiring = "User didn't make podcast yet.";
+More = "More";
+AiringLook = "Listen";
+
+PlsInputReportReason = "Please provide a reason for reporting this station.";
+PlsInputWords3to50 = "Please enter 3 to 50 characters.";
+CancelReport = "Cancel report";
+SendReport = "Submit report";
+PlsmakesureyourWords = "Please enter 3 to 50 characters.";
+ReportSuccess = "Report submitted";
+CareSuccess = "Save to Favorites";
+CareCancelSuccess = "Unfollow";
+SureCancelCare = "Confirm unfollow？";
+SureCancelCollect = "Confirm unfavorite？";
+
+
+CollectCancel = "Remove from Favorites";
+CancelCare = "Unfollow";
+CollectSuccess = "Save to Favorites";
+CollectCancelSuccess = "Remove from Favorites";
+IWantRate = "Public Message";
+PlsInputWords3to100 = "Please enter 3 to 100 words.";
+SayGoodSuccess = "likes";
+
+Station = "Podcast";
+Call = "Calling";
+Chat = "Chating";
+SendGift = "Gift";
+Care = "Follow";
+Report = "Report";
+Lock = "Block";
+Height = "Height";
+Weight = "Body Type";
+Job = "Occupation";
+Slogan = "Quotes";
+AlreadyLocked = "User Blocked";
+YouHaveNotAuthor = "  You do not have permission to view this user's private photos.";
+NotAllowed = "Not available";
+ThereHaveNoUserOnline = "Not user available, please try later.";
+Age = "Age";
+
+CurrentCollect = "Current Profit";
+GetMoney = "Withdraw";
+AddMoney = "Refill";
+
+SearchAge = "Age range:";
+
+OnlineStatus = "Online status:";
+Role = "Identity";
+Year = "years old";
+
+StatusDefault = "Any";
+RoleDefault = "Talkative";
+Voicer = "Recording";
+Secreter = "Mystery";
+LanguageDefault = "Select language";
+CityDefault = "Select city";
+
+All = "All";
+Myfavorate = "My favorite";
+From = "From";
+Seen = "Users visited";
+
+Warn18Ban = "You may not have access to the content if you are under the age of 18.";
+NotShow = "Do not show this message again.";
+Leave = "Exit";
+IM18Older = "I am over 18 years old.";
+FromSource = "From";
+Explan = "This content has been obtained from an unaffiliated source. If you have any concerns about the content or source, please let us know. We will remove the content as soon as possible if necessary.";
+
+AddMoneyTitle = "VIP Refill";
+MyBuyList = "My Orders";
+BuyVIP = "Combo";
+ChatCard = "Chat Card";
+StationCard = "Station Voucher";
+Buy = "Buy";
+
+AMonthVIP = "1 month VIP Combo：$30 USD";
+AMonthDesp = "Plus Card+800 station minutes";
+
+ThreeMonthVIP = "3 months VIP Combo：$65 USD";
+ThreeMonthDesp = "Standard Card+2500 station minutes";
+
+SevenMonthVIP = "7 months VIP Combo：$135 USD";
+SevenMonthDesp = "Max Card+6000 station minutes";
+
+LikeCardM = "Starter Card：$4 USD";
+LikeDespM = "15 talk minutes";
+LikeCardF = "Starter Card：$3 USD";
+LikeDespF = "15 talk minutes";
+
+ShareHappyCardM = "Standard Card：$15 USD";
+ShareHappyDespM = "75 talk minutes";
+ShareHappyCardF = "Standard Card：$9 USD";
+ShareHappyDespF = "75 talk minutes";
+
+UnimpededM = "Plus Card：$30 USD";
+UnimpededDespM = "150 talk minutes";
+UnimpededF = "Plus Card：$15 USD";
+UnimpededDespF = "150 talk minutes";
+
+CrazyCardM = "Max Card：$55 USD";
+CrazyCardDespM = "300 talk minutes";
+CrazyCardF = "Max Card：$25 USD";
+CrazyCardDespF = "300 talk minutes";
+
+StationDesp3 = "200 station minutes";
+StationDesp13 = "700 station minutes";
+
+TheyIntroduceThem = "They already recorded their Voices. What are you waiting for?";
+GoToRecord = "Record Now";
+
+Selfintroduce = "My Voice";
+SuccessRecordDesp = "Upload your Voice to listen to other users' Voices.";
+PlsRecordAIntroduce = "↑Please record something about yourself so other users can hear your voice.";
+RecordCanDesp = "↑You can pre-record up to 3 Voices.";
+RecordCan = "Pre-recorded Voices";
+
+IntroduVoice = "My Voice";
+CanVoice = "Pre-recorded Voices";
+RecordWaring = "The current My Voice audio file will be deleted if you record a new one.";
+AlarmDesp = "Please note: your %1$s Voice must be 15 seconds or shorter.";
+Time = "15 seconds";
+Edit = "Edit";
+
+Slim = "Slim";
+Medium = "Fit";
+Fat = "Curvy";
+Chubby = "Chubby";
+NickNameLimit6 = "Nickname limits six characters";
+SloganLimit8 = "quote limits eight characters";
+
+RoleDesp = "User Types";
+RoleDesp0 = "When you become a Talkative User, you will have access to the following:";
+RoleDesp1 = "1.Calls, messages (female users only),podcasts and gifts.";
+RoleDesp2 = "2.Answering calls.";
+RoleDesp3 = "3.Calling other users.";
+RoleDesp4 = "4.Leaving messages for other users.";
+RoleDesp5 = "5.Making your own podcasts.";
+
+Voicer0 = "When you become a Recording User, you will have access to the following:";
+Voicer1 = "1.Messages (female users only),podcasts and gifts.";
+Voicer2 = "2.Calling other users.";
+Voicer3 = "3.Leaving messages for other users.";
+Voicer4 = "4.Making your own podcasts.";
+
+Secreter0 = "You will only have access to making podcasts and messages.";
+IKnowAndBackUserInfo = "Understood. Go back to my profile.";
+Skip = "Skip";
+WelcomeUseVoicer = "Welcome to Lonely Stations";
+VolidateWillGet = "Complete cell phone verification and receive";
+EightMin = "8 minutes of free calls and a 20-minute Station Voucher.";
+Tips = "Please note:";
+TipsDetail = "You will not receive any rewards if you skip this step.";
+CountryId = "Country code";
+Tel = "Mobile phone number";
+GetTel = "Get verification code";
+PlsInputCountry = "Select country code or country";
+InputCodeValidate = "Enter verification code to complete.";
+InputCode = "Please enter your verification code.";
+RegetSMSCode = "Resend verification code";
+PlsSelectCountry = "Select country";
+CallTime = "Call Duration";
+SystemNotify = "Notification";
+AllRead = "Mark All as Read";
+AllDelete = "Delete All";
+SureDeleteMsg = "Delete this notification？";
+SureDeleteAllMsg = "Delete all notifications？";
+
+NoticeSetting = "Notification Settings";
+CallSetting = "Call Settings (Talkative users only)";
+AuthorSetting = "Authorize Users";
+LockSetting = "Block Users";
+CommonQuestion = "FAQ";
+DeleteUserForever = "Delete My Account";
+
+ListenMe = "Listen to Me";
+
+NotifySettingMsg = "Please go to System->「Setting」->Lonely Station's「Notification」";
+AllowCall = "Allow calls";
+AnswerTime = "Availability";
+
+Calling = "calling of ";
+SureDeleteUser = "Delete My Account forever?";
+CancelAuthor = "Cancel authority";
+SureAuthor = "authorize successful";
+SureLock = "Block successful";
+SureCancelAuthor = "Cancel authority？";
+CancelLock = "Cancel block";
+SureCancelLock = "Cancel block？";
+ComeSoon = "Comming soon";
+LeftCaclu = "Current Balance";
+TalkLeft = "Chat Card Remaining Minutes:";
+RadioLeft = "Station Voucher Remaining Minutes:";
+UnlimitedChat = "unlimited chat time remaining:";
+
+Seconds = "seconds";
+Day = "Day";
+Hour = "Hour";
+TalkTimeNotEnough = "Your Chat Card balance has expired. Would you like to buy some credits?";
+OKQuickBuy = "Yes,buy now.";
+
+StationTimeNotEnough = "Your Station Voucher balance is too low.";
+PlsSelectProduct = "Select product";
+Pay = "Go to";
+BuyTime = "Purchase Date:";
+BuyDesp = "Order Details:";
+NotPaid = "Not yet paid";
+Paid = "paid";
+VIPLeft = "VIP Status Expiration Date:";
+
+InComeDetail = "Transaction Details";
+ViewTransfer = "View transaction fees and exchange rates";
+InComeToday = "Daily Balance";
+InComeCurrentMonth = "Monthly Balance";
+NotGetFee = "Unclaimed Amount";
+NotSetGetAccount = "No connected account found";
+GetFeeRecord = "Withdraw Record";
+CanGetMoney = "Amount Available";
+TodayCanGetMoney = "Collectible Amount";
+Change = "Withdraw";
+WithDraw = "Redeem";
+HowToGetFee = "How to redeem your rewards? Learn more.";
+HowToGetFeeNew = "What to do if you have accrued $ 30? Learn more.";
+HowGetFee = "How to redeem your rewards?";
+
+GetFeeInfo = "Payment Information";
+PlsSelectType = "Please select how you would like to receive rewards.";
+WarningInfo = "Please only select one.";
+AccountInfo = "Account Information ";
+
+PlsInput = "please provide your ";
+Account = "account";
+Or = "or";
+GoTo = "go to";
+Sign = "register";
+YouSettingAccount = "Your connected account is";
+CanDrawFeeNotEnough = "Not enough balance for redeem.";
+
+GetFeeDone = "Withdrawn";
+GetFeeUnDone = "Unwithdrawn";
+YouCanChange = "Available amount to be redeemed:";
+ATime = "minutes";
+ChangeScale = "Redemption Ratio:\n$0.06USD redeem 1 minute of Chat Card. \n$0.02USD redeem 1 minute of Station Voucher";
+YouNeverRecordIntroduce = "You have not recorded any voice messages.\n Please go to User Center/My Podcasts to record.";
+ChatDocument = "Voice Chats";
+TryListen = "Preview";
+Playing = "Palying";
+
+Send3MinGift = "Sending this sticker as a gift will deduct 3 minute(s) from your balance.";
+Send5MinGift = "Sending this sticker as a gift will deduct 5 minute(s) from your balance.";
+Send10MinGift = "Sending this sticker as a gift will deduct 10 minute(s) from your balance.";
+
+Send20MinGift = "Send a 20-minute present to show your concern.";
+Send50MinGift = "Send a 50-minute present to show your love";
+
+Send20MinYouHeart = "Send a 20-minute present to show your concern.";
+Send50MinYouHeart = "Send a 50-minute present to show your love";
+
+Send3MinYouHeart = "Send a 3-minute sticker to show your friendliness.";
+Send5MinYouHeart = "Send a 5-minute sticker to show your sincerity.";
+Send10MinYouHeart = "Send a 10-minute sticker to show your passion.";
+AddMoneyQuick = "You are one step away! Please refill your card.";
+Auth = "Authorize";
+CancelAuthMustGoMyAccount = "Please go to 「My Profile」/「Setting」/「Authorize Users」 to cancel authorized users";
+HoldSpeak = "Hold to talk";
+ReleaseSend = "Release to send";
+SpeakToShort = "Talk too short";
+SpeakToLong = "Talk too long";
+UpCancelRecord = "Swipe up to cancel";
+ReleaseCancelRecord = "Release to cancel";
+
+TextMsg = "Text message";
+VoiceMsg = "Voice message";
+ImageMsg = "Image message";
+GetAMsg = "recieved a message";
+GetA = "recieved a";
+MSG = "message";
+Look = "Check";
+VcMsg="You recieved a voice message";
+ImgMsg="You recieved an image message";
+TxtMsg ="You recieved a text message";
+InAPP = "In-app purchase";
+IntroduceStr = " A simple self-introduction is a good way to let others quickly know. Just do it now.";
+WillConnect = "System will get connected for you.";
+
+BestVoice = "Best Voice";
+MyBoardCast = "My boardcast";
+Gift = "gift";
+Message = "Message";
+IsCharge = "charge";
+WillSubSecond = "This will charge you radio seconds,will continue?";
+
+Get3MinYouHeart = "You receive a picture of a mind";
+Get5MinYouHeart = "You receive a picture of a Sincerity";
+Get10MinYouHeart = "You receive a picture of an affection";
+Get20MinYouHeart = "You receive a picture of care";
+Get50MinYouHeart = "You receive a picture of love";
+
+F1 = "f1";
+F2 = "f2";
+F3 = "f3";

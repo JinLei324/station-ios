@@ -1,0 +1,658 @@
+/*
+ Localization.strings
+ APlayer
+ 
+ Created by kelven on 11-11-4.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+
+YouLockedTa = "你已将对方封锁，解除封锁即可继续";
+KeepLock = "保持禁封";
+UnLock = "解除禁封";
+TaLockedYou = "对方已将你封锁，无法进行聊天";
+ChatWithHer = "与她聊天每分钟消耗聊币";
+MsgWithHer = "与她聊天每则讯息消耗聊币";
+
+LiveMall = "直播大厅";
+LiveText = "直播功能即将开始\n敬请期待～";
+StartChat = "开始聊天";
+YouUnLimitCardNotEnough = "您的无限畅聊卡天数不足，是否用聊天卡与她聊天或者前往充值";
+OKGoAhead = "确认使用";
+YouUnLimitNotEnough = "您的无限畅聊卡天数不足，请前往充值";
+SheChangeChargeStatus = "对方已修改收费状态，请重新开始会话";
+
+WhenYouCallSb = "当你拨打电话给对方时，目前为免费喔";
+StationCardDes = "电台劵可收听付费广播";
+ChatCardDesF = "聊天卡可用于赠送你喜欢的对象礼物";
+
+ChatCardDes = "聊天卡可与付费聊天之女会员通话聊天或送礼给喜欢的对象";
+UnlimitChat = "无限畅聊";
+ChatDes = "对方为付费与你讯息聊天，可至设置内更改";
+ChatFreeDes = "对方为免费与你讯息聊天，可至设置内更改";
+
+CallCharge = "语音通话是否要向对方收费";
+MsgCharge = "讯息聊天是否要向对方收费";
+ChargeSetting = "收费设置";
+ChargeStatus = "收费状态";
+NotFree = "付费";
+FreeSetting = "设置";
+
+Charge = "收费";
+Free = "免费";
+YOUMUSTCOMPLETEINFO = "你必须完善个人资料才能使用此功能喔";
+THISWANTREGISTER = "此功能需要注册后才能使用";
+GOTOREGISTER = "前往注册";
+IWANTLOGIN = "我要登录";
+IWANTREGISTER = "我要注册";
+SexCannotChange = "- 性别注册后不可修改 -";
+IMGIRL = "我是女生";
+IMBOY = "我是男生";
+REGISTERWithOutName = "匿名注册";
+LoginWithOutName = "匿名登入";
+LoginLabel = "云端情人FM";
+HomePage = "全部主播";
+ARTICLE = "寂寞话题";
+AdvancedSearch  = "进阶搜寻";
+SpeechEmotion = "语音传情";
+NetWorkTitle = "网络提示";
+NetWorkMsg = "您的网络不太给力，请检查您的网络";
+NotFillYet = "尚未填写";
+//LoginViewController
+LoginBtn = "登 入";
+RegisterBtn = "注 册";
+
+UserName = "电子信箱";
+Password = "密码";
+ForgetPwd = "忘记密码";
+PleaseInputEmail = "请输入电子信箱";
+PlsInputPwd = "请输入密码";
+SetingPWD = "设定密码";
+EnSurePWD = "再次确定密码";
+NextStep = "下一步";
+EnSureNextStep = "继续下一步则表示您同意使用规范";
+Standed = "使用规范";
+PlsInputUser = "请输入邮箱";
+PlsInputPwd = "请输入密码";
+LoginFailed = "登录失败，请稍后重试";
+LoginSuccess = "登录成功";
+RegisterFailed = "注册失敗，请稍后重试";
+RegisterSuccess = "注册成功";
+
+PlsInputSamePwd = "两次密码不一致，请重新输入";
+PlsInputRightEmail = "请输入正确格式的电子信箱";
+
+
+//forgetPwdViewController
+ForgetBtn = "忘 记 密 码";
+PlsInputYourEmail = "请提供您原本注册的电子信箱";
+WeWillSendEmailToYou = "我们将寄出一组新的密码给您";
+EnSureSend = "确 定 送 出";
+ForgetSuccess = "发送新密码到邮箱成功";
+ForgetFailed = "发送新密码到邮箱失败，请稍后重试";
+
+
+//StandViewController.h
+FirstLabel = "欢迎您使用寂寞聊聊，为确保用户能拥有良好及安全的使用环境，当您在使用本平台时，请遵守下列规定：";
+StandLabel1 = "使用者不得出现任何诽谤、侮辱、具威胁性、攻击性、不雅、猥亵、不实、恐吓、违反公共秩序或善良风俗或其他不法之文字、图片及言论内容。";
+StandLabel2 = "使用者不得涉及任何情色、同音相近影射暗示或以其他方式令人反感字眼或语音内容。";
+StandLabel3 = "使用者不得利用本服务进行情色相关之交易，违者寂寞聊聊管理者有权提供证据移送法办。";
+StandLabel4 = "为落实个人资料保护，使用者不得将个人或他人的全名、地址、电话号码、电子邮件信箱帐号、即时通讯帐号及连结资料公开。";
+StandLabel5 = "使用者不得在聊天及对话中讨论非法活动或话题。";
+StandLabel6 = "使用者不得使用任何方式侵犯他人隐私或进行破坏聊天秩序之行为。";
+StandLabel7 = "不得以任何方式侵入他人帐号，违者寂寞聊聊管理者有权提供证据移送法办。";
+StandLabel8 = "寂寞聊聊管理员有权对于使用者上传之照片、语音进行审核，发现违反上述规定者，得已将使用者帐号进行停权处理。";
+StandLabel9 = "寂寞聊聊内的所有声音及照片皆属于使用者或开发者所有，未经本人同意请勿私自挪用，若造成法律上的责任，请自行负责。";
+StandLabel10 = "寂寞聊聊为提供用户社群交流之平台，若欲约会见面前，请自行判断对方言行的真实性，再与其约会见面，以免发生受骗或侵害人生安全之情形。";
+
+IKnow = "我同意规范內容";
+
+
+PersonalInfo = "个人中心";
+Complate = "完成";
+UploadImageCanUseMore = "成功上传照片及自介音档后，可使用更多功能";
+NickName = "昵称";
+NickNameEg = "小小";
+Birthday = "生日";
+BirthdayEg = "1988/07/07";
+Sex = "性别";
+Boy = "男生";
+Girl = "女生";
+CannotChange = "*注册后不可再更改";
+Lang = "语言";
+LangEg = "国语";
+Country = "国家";
+CountryEg = "中国";
+City = "城市";
+CityEg = "北京";
+UploadImg = "上传照片";
+FailedAndPlsRetry = "网络请求失败，请稍后再试";
+PlsCheckCountry = "请先选择国家";
+UpLoadInfoSuccess = "更新个人信息成功";
+
+UploadImgDes = "成功上传一张公开照片，即可拨打电话给别人，使用讯息聊天及回复别人电台语音";
+PublicImgDes = "↑我们会将您的公开照片雾化处理，当用户听过您的声音后，即可看到您的照片";
+PublicImg = "公开照片";
+
+PrivateImgDes = "↓私人照片须经您指定授权，对方才可观看";
+PrivateImg = "私人照片";
+
+LastDes = "提醒您:请确实上传本人照片并遵守使用规范";
+SelfPic = "使用规范";
+ChoosePhoto = "请选择";
+ChooseFromAblue = "从手机相册选择";
+Camra = "拍照";
+Cancel = "取消";
+
+UploadSuccess = "上传成功";
+UploadIng = "上传中";
+ResetPwd = "重设密码";
+
+OriginPwd = "原本的密码";
+NewPwd = "重新设定的密码";
+ReInputPwd = "请再次输入一次密码";
+
+PlsInputOldPwd = "请输入原本的密码";
+PlsInputNewPwd = "请输入新密码";
+PlsInputSamePwd = "两次密码不一致，请重新输入";
+
+OperateSuccess = "操作成功";
+OperateFailed = "操作失败";
+PlsInputPersonalInfo = "请先完善个人信息";
+
+DeletePrivate = "删除私人照";
+DeletePublic = "删除公开照";
+DeleteImg = "删除照片";
+SureDeleteImg = "确认删除照片？";
+Sure = "确认";
+DeleteSuccess = "删除成功";
+
+NoChecked = "审核中";
+PendingChecking = "审核已通过";
+RefuseCheck = "审核已拒绝";
+
+YouForgetUploadImg = "您忘记放大头照啰～上传后即可使用以下功能";
+YouForgetUploadImgInfo = "1.拨打电话给别人\n2.和别人讯息聊天\n3.回复别人的电台";
+NextTime = "下次再说";
+UploadNow = "现在上传";
+
+OnLine = "上线";
+OffLine = "离线";
+Busy = "通话";
+
+RecordBoardcast = "录制广播";
+PersonalInfo = "个人资讯";
+WhoListenMe = "谁来听我";
+WhoCareMe = "谁关注我";
+
+MyCollection = "广播收藏";
+MyRecord = "我的广播";
+MyVoice = "我的礼物";
+Gift = "礼物";
+VoiceHistory = "通话记录";
+Setting = "设定";
+FeedBack = "客服留言";
+Logout = "退出";
+
+RecordImageDes = "上传分享的封面图";
+RecordShareTitle = "分享的标题:";
+RecordShareTitlePlace = "限制八个字";
+RecordShareCatagory = "分享的类别:";
+RecordShareCatagoryPlace = "点击选择类别";
+RecordBeginTitle = "开始录制";
+ReRecordWillUponRange = "重录后将会覆盖提取范围";
+AllReadyEdit = "已完成编辑";
+EditGoOn = "继续编辑";
+AddEffect = "加上音效";
+IsCharge = "是否收费";
+
+PlsObserveRule = "录制内容请勿违反使用规范";
+Public = "发布";
+InnerImg = "内置图片";
+SelectInnerImg = "选择内置图片";
+SelectCategory = "选择类别";
+
+Warning = "貼心小提醒";
+RecordIsTooShort = "录音时间过短,请重新录制";
+IKnowRecordIsTooShort = "知道了";
+DeleteSuccess = "删除成功";
+ClipSuccess = "剪切成功";
+MicPhoneAccess = "APP将在通话和录制音频时候使用麦克风。请启用麦克风-设置/隐私/麦克风";
+PlsRecordFirst = "请先录音";
+MakeSureDeleteRecord = "确认删除录音？";
+SelectEffect = "选择音效";
+MakeSureDeleteAllRecord = "确认删除所有音效？";
+
+PlsInputBackImg = "请添加背景图片";
+PlsInputTitle = "请输入标题";
+PlsSelectCategory = "请选择类别";
+PublicFailed = "发布失败，请稍后再试";
+PublicSuccess = "发布成功！";
+
+LeaveWarning = "离开将不会保存录音数据，是否离开？";
+IKnowAndandBack = "我同意规范內容";
+ThisAiringCollect = "累计聊币";
+MakeSureDeleteAiring = "确认删除本则广播？";
+
+UpLoadRefresh = "上拉刷新";
+Refreshing = "刷新中，请稍后";
+ThereHaveNoData = "没有更多数据了";
+TitleCannotBeyond8 = "标题不能超过8个字";
+
+MyCare = "我的关注";
+Blindness = "直接通话";
+AllStation = "全部主播";
+AllRealStation = "全部广播";
+VoiceChat = "讯息聊天";
+
+Stop = "停止";
+Play = "播放";
+Delete = "删除";
+
+CutWarning = "*无调整间隔，按下剪刀后取消裁剪";
+CutAlert = "剪切总时长不能为0";
+
+
+//主页
+DidPictureBlur = "觉得照片模糊吗？\n或许您可以先听听他们的声音~";
+DidPictureBlurWoman = "觉得照片模糊吗？\n或许您可以先听听她们的声音~";
+
+ClickToListenIntroduce = "点这前往聆听\n该电台自介";
+ClickToListenStation = "点这前往聆听\n该电台作品";
+HaveNoSlogan = "暂无说说";
+
+PersonalStation = "个人电台";
+
+//自动登录失败
+AutoLoginFailed = "自动登录失败，请手动登录";
+
+//登出
+MakeSureLogout = "确定登出此账号？";
+Sure = "确定";
+Cancel = "取消";
+
+//提醒
+WarningWIFI = "提醒您：使用WIFI通话品质会更好";
+Horn = "喇叭";
+SendGift = "三分礼";
+Quiet = "静音";
+
+WillSend3Min = "将赠送对方180枚聊币";
+SendMin = "送出";
+
+MinNotEnough = "您的剩余聊币不够，请先充值";
+HandleFailed = "操作失败，请稍后再试";
+HandleSuccess = "成功送出180枚聊币";
+
+
+ThereisNoAiring = "TA还没有录制电台";
+
+More = "更多";
+AiringLook = "广播欣赏";
+
+PlsInputReportReason = "请填写您检举此电台的原因";
+PlsInputWords3to50 = "请输入3～50个字才可成功送出";
+CancelReport = "取消检举";
+SendReport = "送出检举";
+ReportSuccess = "检举成功";
+
+PlsmakesureyourWords = "请确定您输入的字数在3～50之内才可成功送出";
+CareSuccess = "关注成功";
+CollectCancel = "取消收藏";
+CareCancelSuccess = "取消关注成功";
+CollectSuccess = "收藏成功";
+CollectCancelSuccess = "取消收藏成功";
+SureCancelCollect = "确定取消收藏？";
+
+CancelCare = "取消关注";
+SureCancelCare = "确定取消关注？";
+
+SayGoodSuccess = "点赞成功";
+IWantRate = "我要公开留言";
+PlsInputWords3to100 = "请输入3～100个字才可成功送出";
+
+Station = "广播";
+Call = "通话";
+Chat = "聊天";
+SendGift = "礼物";
+Care = "关注";
+Report = "检举";
+Lock = "封锁";
+Height = "身高";
+Weight = "体型";
+Job = "职业";
+Slogan = "心情语录";
+AlreadyLocked = "已经封锁了该用户";
+YouHaveNotAuthor = "  您尚未取得授权观看此电台私人照";
+NotAllowed = "不在该电台允许接电话的时间之内喔";
+ThereHaveNoUserOnline = "当前没有用户在线，请稍后再试";
+Age = "年纪";
+
+CurrentCollect = "目前收益";
+GetMoney = "提领";
+AddMoney = "充值";
+SearchAge = "搜寻的年龄:";
+
+OnlineStatus = "上线状态:";
+
+Role = "身份别";
+Year = "岁";
+
+StatusDefault = "不设限";
+RoleDefault = "电台情人";
+Voicer = "留声者";
+Secreter = "神秘客";
+LanguageDefault = "请选择语言";
+CityDefault = "请选择城市";
+
+
+All = "所有";
+Myfavorate = "我喜欢的";
+From = "来自";
+Seen = "看过";
+
+Warn18Ban = "您需要年满18岁才可欣赏";
+NotShow = "不再提示";
+Leave = "离开";
+IM18Older = "我已满18岁";
+FromSource = "来源";
+Explan = "本篇文章/本段影片摘取自网路，版权皆属原作者及公司所有。如有不适当或对文章出处有疑虑，请来信与我们告知，我们将会在最短时间进行撤除。";
+
+AddMoneyTitle = "购买聊币";
+MyBuyList = "我的购买清单";
+BuyVIP = "套餐";
+ChatCard = "聊天卡";
+StationCard = "电台劵";
+Buy = "购买";
+
+AMonthVIP = "单月VIP套餐：$30 USD";
+AMonthDesp = "赠畅通卡1张+800分钟电台收听";
+
+ThreeMonthVIP = "3个月VIP套餐：$65 USD";
+ThreeMonthDesp = "赠享乐卡1张+2500分钟电台收听";
+
+SevenMonthVIP = "7个月VIP套餐：$135 USD";
+SevenMonthDesp = "赠狂聊卡1张+6000分钟电台收听";
+
+LikeCardM = "欢喜卡：$4 USD";
+LikeDespM = "可通话15分钟";
+LikeCardF = "欢喜卡：$3 USD";
+LikeDespF = "可通话15分钟";
+
+ShareHappyCardM = "享乐卡：$15 USD";
+ShareHappyDespM = "可通话75分钟";
+ShareHappyCardF = "享乐卡：$9 USD";
+ShareHappyDespF = "可通话75分钟";
+
+UnimpededM = "畅通卡：$30 USD";
+UnimpededDespM = "可通话150分钟";
+UnimpededF = "畅通卡：$15 USD";
+UnimpededDespF = "可通话150分钟";
+
+CrazyCardM = "狂聊卡：$55 USD";
+CrazyCardDespM = "可通话300分钟";
+CrazyCardF = "狂聊卡：$25 USD";
+CrazyCardDespF = "可通话300分钟";
+
+StationDesp3 = "可收听电台200分钟";
+StationDesp13 = "可收听电台700分钟";
+
+TheyIntroduceThem = "他们都大方的录制自我介绍了，您还等什么呢？";
+PlsRecordIntroduce = "请录制自我介绍，即可完成";
+GoToRecord = "前往录制";
+
+Selfintroduce = "自介";
+SuccessRecordDesp = "成功上传自介音档，即可开始听取其他人的音档";
+PlsRecordAIntroduce = "↑请录一则您的自介，让大家听见您的声音";
+RecordCanDesp = "↑您可预录三则罐头聊天语音";
+RecordCan = "罐头聊天语音";
+
+IntroduVoice = "自介音档";
+CanVoice = "罐头音档";
+RecordWaring = "录制新的自介音档，旧的将会被覆盖掉";
+
+AlarmDesp = "提醒您：自介音档录制长度，限制在15秒之内";
+Time = "15秒";
+
+Edit = "编辑";
+
+Slim = "纤细";
+Medium = "中等";
+Fat = "微胖";
+Chubby = "福态";
+NickNameLimit6 = "昵称限制六个字";
+SloganLimit8 = "心情语录限制八个字";
+
+RoleDesp = "身份别说明";
+RoleDesp0 = "加入电台情人，您可以";
+RoleDesp1 = "1.提取收益：通话、讯息聊天(限女性)、广播及礼物";
+RoleDesp2 = "2.接听电话";
+RoleDesp3 = "3.拨打电话给你喜欢的对象";
+RoleDesp4 = "4.留言给你喜欢的对象";
+RoleDesp5 = "5.录制自已的广播作品";
+
+
+Voicer0 = "加入留声者，您可以";
+Voicer1 = "1.提取收益：讯息聊天(限女性)、广播及礼物";
+Voicer2 = "2.拨打电话给你喜欢的对象";
+Voicer3 = "3.留言给你喜欢的对象";
+Voicer4 = "4.录制自已的广播作品";
+
+Secreter0 = "您只能录制广播及讯息聊天";
+IKnowAndBackUserInfo = "我同意规范內容";
+
+Skip = "略过";
+WelcomeUseVoicer = "欢迎使用寂寞聊聊";
+VolidateWillGet = "完成手机认证即可获得";
+EightMin = "420枚聊币";
+Tips = "贴心小提醒:";
+TipsDetail = "若略过此步骤,即表示您同意放弃此赠送活动";
+LoginEncourage = "每日登入奖励";
+
+CountryId = "国码";
+Tel = "请输入手机号码";
+GetTel = "提取认证码";
+PlsInputCountry = "请选择国家或者国码";
+InputCodeValidate = "输入认证码后，即可完成";
+InputCode = "输入4位数字认证码";
+RegetSMSCode = "重新提取认证码";
+PlsSelectCountry = "请选择国家";
+CallTime = "通话时长";
+SystemNotify = "系统通知";
+AllRead = "全部已读";
+AllDelete = "全部删除";
+SureDeleteMsg = "确认删除这则通知？";
+SureDeleteAllMsg = "确认删除全部通知？";
+
+NoticeSetting = "通知设置";
+CallSetting = "来电设定（电台情人专用）";
+AuthorSetting = "授权管理";
+LockSetting = "封锁管理";
+CommonQuestion = "常见问题";
+DeleteUserForever = "永久删除账号";
+
+ListenMe = "听我";
+ChargeDes = "兑换比例：1剩余聊币=1可提现聊币";
+
+NotifySettingMsg = "请至 ios系统「设定」更改寂寞聊聊的「通知设置」";
+AllowCall = "允许来电";
+AnswerTime = "每天可接听的时间";
+
+Calling = "的来电";
+SureDeleteUser = "确认永久删除此账号？";
+CancelAuthor = "取消授权";
+SureAuthor = "成功授权";
+SureLock = "成功封锁";
+SureCancelAuthor = "确认取消对该账号授权？";
+CancelLock = "取消封锁";
+SureCancelLock = "确认取消对该账号的封锁？";
+ComeSoon = "即将推出";
+
+LeftCaclu = "尚存结算";
+TalkLeft = "聊天卡剩余:";
+RadioLeft = "电台劵剩余:";
+UnlimitedChat = "无限畅聊剩余时间:";
+
+Seconds = "秒";
+Hour = "时";
+Day = "天";
+TalkTimeNotEnough = "您的聊币已使用完毕，请至充值内购买";
+SorryTimeNotEnough = "很抱歉，你必须充值才能使用此功能";
+OKQuickBuy = "好，立即前往购买";
+FirstInitEncourage = "首次注册奖励420金币";
+
+StationTimeNotEnough = "您的聊币不足，请先充值";
+PlsSelectProduct = "请先选择要购买的商品";
+BuyTime = "购买日期";
+BuyDesp = "购买内容";
+NotPaid = "未付款";
+Paid = "已付款";
+VIPLeft = "VIP到期日";
+
+InComeDetail = "收益明细";
+ViewTransfer = "查看转账手续费与汇率";
+InComeToday = "今日收益";
+InComeCurrentMonth = "当月收益";
+NotGetFee = "未领金额";
+NotSetGetAccount = "尚未设置提领账户";
+GetFeeRecord = "领款记录";
+CanGetMoney = "可提现金额";
+TodayCanGetMoney = "待收款金额";
+Change = "兑换";
+WithDraw = "提领";
+HowToGetFee = "如何领取收益？立刻了解";
+HowToGetFeeNew = "累积了$30收益怎么办? 立刻了解";
+HowGetFee = "如何领取收益";
+
+GetFeeInfo = "汇款资料";
+PlsSelectType = "请选择分润方式";
+WarningInfo = "提醒您，仅能选一项填写";
+AccountInfo = "账户信息";
+
+PlsInput = "请输入你的";
+Account = "账号";
+Or = "或";
+GoTo = "前往";
+Sign = "注册";
+SignAccount = "注册账号";
+YouSettingAccount = "您设置的账户为";
+
+CanDrawFeeNotEnough = "可提现金额不足";
+GetFeeDone = "领取";
+GetFeeUnDone = "未领取";
+YouCanChange = "您可兑换的金额为:";
+ATime = "分钟";
+MissionTitle =  "完成任务赚聊币";
+MissionDes = "-每日登入送24聊币\n-审核通过五分钟优质广播送200聊币";
+EncourageDes = "恭喜你，你有";
+EncourageDes2 = "个广播上传奖励待领取";
+Leave = "离开";
+ChangeScale = "兑换比例:\n$0.06USD兑换1分钟聊天卡\n$0.02USD兑换1分钟电台劵";
+YouNeverRecordIntroduce = "您尚未录制任何一笔语音聊天，请至「个人中心」/「我的音库」完成预录即可开始使用";
+ChatDocument = "聊天音档";
+TryListen = "试听";
+Playing = "播放中";
+Send3MinGift = "赠送此贴图会消耗您180聊币";
+Send5MinGift = "赠送此贴图会消耗您300聊币";
+Send10MinGift = "赠送此贴图会消耗您600聊币";
+Send20MinGift = "赠送此贴图会消耗您1200聊币";
+Send50MinGift = "赠送此贴图会消耗您3000聊币";
+
+
+Send3MinYouHeart = "您消耗180聊币";
+Send5MinYouHeart = "您消耗300聊币";
+Send10MinYouHeart = "您消耗600聊币";
+Send20MinYouHeart = "您消耗1200聊币";
+Send50MinYouHeart = "您消耗3000聊币";
+
+Get3MinYouHeart = "你收到一张代表心意的贴图";
+Get5MinYouHeart = "你收到一张代表诚意的贴图";
+Get10MinYouHeart = "你收到一张代表情意的贴图";
+Get20MinYouHeart = "你收到一张代表在意的贴图";
+Get50MinYouHeart = "你收到一张代表爱意的贴图";
+
+AddMoneyQuick = "差一点点就成功了，赶快前往充值";
+
+Auth = "授权";
+CancelAuthMustGoMyAccount = "请至「个人中心」/「设定」/「授权管理」取消目前已授权的用户";
+
+HoldSpeak = "按住说话";
+ReleaseSend = "松开发送";
+SpeakToShort = "说话时间太短";
+SpeakToLong = "说话时间超长";
+UpCancelRecord = "手指上滑，取消发送";
+ReleaseCancelRecord = "手指松开，取消发送";
+TextMsg = "文字消息";
+VoiceMsg = "语音消息";
+ImageMsg = "图片消息";
+GetAMsg = "收到一则消息";
+GetA = "收到一则";
+MSG = "消息";
+Look = "查看";
+VcMsg="你收到了一则语音讯息";
+ImgMsg="你收到了一则图片讯息";
+TxtMsg ="你收到了一则文字讯息";
+InAPP = "苹果支付";
+IntroduceStr = "一段简单的自我介绍，是让其他人快速认识你的好方法，让大家听听你温暖的声音吧";
+WillConnect = "寂寞聊聊即将为你连线";
+
+BestVoice = "最佳声音";
+MyBoardCast = "我的广播";
+Message = "讯息";
+WillSubSecond = "此广播会消耗您170聊币，是否继续？";
+
+//图片名称国际化
+F1 = "f1zhcn";
+F2 = "f2zhcn";
+F3 = "f3zhcn";
+
+Boutique = "精品";
+BoutiqueStation= "精品电台";
+LoverAction= "情人动态";
+StationName = "电台名称";
+Fans = "粉丝";
+PlayNum = "播放量";
+StationIntro = "主播简介";
+ProductGift = "作品";
+NameWall = "荣誉墙";
+
+AllCat = "全部";
+Smart = "智能";
+Hot = "最热";
+Newest = "最新";
+Search = "搜索";
+
+HearEver = "之前听过";
+ICare = "我关注的";
+IFavarate = "我收藏的";
+IHeared = "听过我的";
+CareMe = "关注我的";
+PersonalAirPort = "个人广播";
+BtnGrid = "格状显示";
+BtnList = "列状显示";
+OnlineDesp = "Ta正在线上期待与你认识唷";
+
+LeftDesp = "左滑下一张";
+RightDesp = "右滑取消";
+
+
+OntheWay = "即将推出，敬请期待";
+ChatMoney = "聊币";
+LeftCoin = "剩余聊币";
+AirPortIn = "广播收益";
+GiftIn = "礼物收益";
+ChatIn = "聊天收益";
+SixtyChatMoney = "每分钟收取：60聊币";
+OneHundredTwentyChatMoney = "每分钟收取：120聊币";
+OneHundredEighttyChatMoney = "每分钟收取：180聊币";
+MsgChatMoney1 = "收到对方1则讯息收取：12聊币";
+MsgChatMoney2 = "收到对方1则讯息收取：24聊币";
+MsgChatMoney3 = "收到对方1则讯息收取：36聊币";
+CantSetCharge = "您录制的时间不满5分钟，无法设定为收费喔";
+Get = "获赠";
+AccountHasLogined = "您的帐号在其他设备登录";
+ReLogin = "重新登入";
+
+CanWithDraw = "可提现";
+CheckPassDes = "审核通过五分钟的广播可以获得200聊币";
+TwoHunCoin = "200聊币";
+EditAir = "编辑广播";
