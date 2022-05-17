@@ -1,7 +1,7 @@
 ![screenshots](https://github.com/JinLei324/station-ios/blob/master/images/screenshots.png)
 ```mermaid
 journey
-	title Me studying for [exams](https://baidu.com) [This is an <b>important</b> <a href='https://google.com'>link</a>]
+	title Me studying for
 	section Exam is announced
 		I start studying: 1: Me
 		Make notes: 2: Me
