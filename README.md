@@ -8,7 +8,7 @@ participant WATI
 participant Backend(store rules)
 
 Note right of SheetAutomation: Create Rule
-SheetAutomation ->>SheetAutomation: Create Trigger and Condition Info
+SheetAutomation ->>SheetAutomation: Create Trigger and Condition Info [a](https://baidu.com)
 SheetAutomation ->>+WATI: Get Message Template
 WATI -->>-SheetAutomation: Return Message Template
 SheetAutomation ->>SheetAutomation: Set Message Params
